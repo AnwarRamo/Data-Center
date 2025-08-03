@@ -1,8 +1,0 @@
-mongodb+srv://anwarramo38:<db_password>@c
-luster0.z5s2h.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-w#>hj6AE5.)mhog!
-{
-
-  "email": "anwarking@gmail.com",
-  "password": "Pa1234567"
-}
